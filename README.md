@@ -1,6 +1,11 @@
 # Learn-JS
 Go through the tutorials to learn JavaScript. Designed from Unlocking Women and Technology at iSpace.
 
+## Step 0: CodeAcademy JavaScript Tutorial
+
+1. Create an account at https://www.codecademy.com/
+2. Go through the tutorial at https://www.codecademy.com/learn/learn-javascript
+
 ## Step 1: Download Node and React Native
 
 1. Go to: https://www.youtube.com/watch?v=v3cJwBh5e10
